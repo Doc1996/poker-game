@@ -10,7 +10,7 @@
 ## Project presentation
 
 <br>
-<p align="center"><img src="images%20for%20GitHub/poker%20game.png" width="640px"></p>
+<p align="center"><img src="images%20for%20GitHub/poker%20game.png" width="720px"></p>
 <br>
 
 
